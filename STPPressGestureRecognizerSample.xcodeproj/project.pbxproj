@@ -15,6 +15,7 @@
 		8C8B613B1ADEA48D00F0C4F6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C8B613A1ADEA48D00F0C4F6 /* Images.xcassets */; };
 		8C8B613E1ADEA48D00F0C4F6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C8B613C1ADEA48D00F0C4F6 /* LaunchScreen.xib */; };
 		8C8B614A1ADEA48D00F0C4F6 /* STPPressGestureRecognizerSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C8B61491ADEA48D00F0C4F6 /* STPPressGestureRecognizerSampleTests.m */; };
+		8C8B61551ADEA4D300F0C4F6 /* STPPressGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C8B61541ADEA4D300F0C4F6 /* STPPressGestureRecognizer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,8 @@
 		8C8B61431ADEA48D00F0C4F6 /* STPPressGestureRecognizerSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = STPPressGestureRecognizerSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C8B61481ADEA48D00F0C4F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C8B61491ADEA48D00F0C4F6 /* STPPressGestureRecognizerSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = STPPressGestureRecognizerSampleTests.m; sourceTree = "<group>"; };
+		8C8B61531ADEA4D300F0C4F6 /* STPPressGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STPPressGestureRecognizer.h; sourceTree = "<group>"; };
+		8C8B61541ADEA4D300F0C4F6 /* STPPressGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPPressGestureRecognizer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				8C8B612F1ADEA48D00F0C4F6 /* AppDelegate.m */,
 				8C8B61341ADEA48D00F0C4F6 /* ViewController.h */,
 				8C8B61351ADEA48D00F0C4F6 /* ViewController.m */,
+				8C8B61531ADEA4D300F0C4F6 /* STPPressGestureRecognizer.h */,
+				8C8B61541ADEA4D300F0C4F6 /* STPPressGestureRecognizer.m */,
 				8C8B61371ADEA48D00F0C4F6 /* Main.storyboard */,
 				8C8B613A1ADEA48D00F0C4F6 /* Images.xcassets */,
 				8C8B613C1ADEA48D00F0C4F6 /* LaunchScreen.xib */,
@@ -223,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C8B61331ADEA48D00F0C4F6 /* STPPressGestureRecognizerSample.xcdatamodeld in Sources */,
+				8C8B61551ADEA4D300F0C4F6 /* STPPressGestureRecognizer.m in Sources */,
 				8C8B61301ADEA48D00F0C4F6 /* AppDelegate.m in Sources */,
 				8C8B61361ADEA48D00F0C4F6 /* ViewController.m in Sources */,
 				8C8B612D1ADEA48D00F0C4F6 /* main.m in Sources */,
