@@ -39,8 +39,6 @@
             self.state = UIGestureRecognizerStateFailed;
         }
     }
-    
-    
 }
 
 - (void)reset
