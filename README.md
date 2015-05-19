@@ -1,5 +1,5 @@
 # STPPressGestureRecognizer
-This is GestureRecognizer for iOS. It works like Fouce Touch.
+This is GestureRecognizer for iOS. It works like Force Touch.
 
 
 This GestureRecognizer uses the private properties of the iOS.
